@@ -1,0 +1,13 @@
+taxid	lineage	name	rank	sample2.fasta
+0	null	Root	rootrank	3
+1	Root;rootrank;Bacteria;domain;	Bacteria	domain	3
+841	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;	"Proteobacteria"	phylum	3
+842	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Alphaproteobacteria;class;	Alphaproteobacteria	class	1
+870	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Alphaproteobacteria;class;Rhizobiales;order;	Rhizobiales	order	1
+950	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Alphaproteobacteria;class;Rhizobiales;order;Rhizobiaceae;family;	Rhizobiaceae	family	1
+957	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Alphaproteobacteria;class;Rhizobiales;order;Rhizobiaceae;family;Rhizobium;genus;	Rhizobium	genus	1
+1501	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Gammaproteobacteria;class;	Gammaproteobacteria	class	2
+1813	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Gammaproteobacteria;class;"Vibrionales";order;	"Vibrionales"	order	2
+1814	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Gammaproteobacteria;class;"Vibrionales";order;Vibrionaceae;family;	Vibrionaceae	family	2
+1823	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Gammaproteobacteria;class;"Vibrionales";order;Vibrionaceae;family;Photobacterium;genus;	Photobacterium	genus	1
+1825	Root;rootrank;Bacteria;domain;"Proteobacteria";phylum;Gammaproteobacteria;class;"Vibrionales";order;Vibrionaceae;family;Vibrio;genus;	Vibrio	genus	1

@@ -1,0 +1,3 @@
+X67228		Root	rootrank	1.0	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Alphaproteobacteria	class	1.0	Rhizobiales	order	0.99	Rhizobiaceae	family	0.87	Rhizobium	genus	0.86
+AB000278		Root	rootrank	1.0	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	"Vibrionales"	order	1.0	Vibrionaceae	family	1.0	Photobacterium	genus	1.0
+AB000390		Root	rootrank	1.0	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	"Vibrionales"	order	1.0	Vibrionaceae	family	1.0	Vibrio	genus	0.99

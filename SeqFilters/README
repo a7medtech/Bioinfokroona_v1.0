@@ -1,0 +1,8 @@
+RDP's Sequence Filtering pipeline and Sequence Initial Processor
+
+QUICKSTART
+==========
+This project depends on ReadSeq, AlignmentTools, and ProbeMatch.  Please clone these projects in to the same parent directory with SeqFilters
+
+ant jar
+java -jar dist/SeqFilters.jar

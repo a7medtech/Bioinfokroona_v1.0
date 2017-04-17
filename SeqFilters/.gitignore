@@ -1,0 +1,8 @@
+#*#
+*~
+*.class
+private/
+.svn
+build/
+dist/
+lib/

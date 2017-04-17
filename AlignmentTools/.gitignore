@@ -1,0 +1,9 @@
+.svn
+build
+*.so
+*.dylib
+dist
+*~
+#*#
+lib/
+private/

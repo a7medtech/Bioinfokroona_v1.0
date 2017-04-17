@@ -1,0 +1,7 @@
+.svn
+build
+#*#
+*~
+lib/
+private/
+dist/

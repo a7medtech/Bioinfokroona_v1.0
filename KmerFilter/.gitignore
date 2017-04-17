@@ -1,0 +1,7 @@
+.svn
+.class
+build
+dist
+lib
+nbproject/private/*
+.*DS_Store

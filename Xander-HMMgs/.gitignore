@@ -1,0 +1,9 @@
+.svn
+.class
+build
+dist
+lib
+hmmgs/
+private/
+publication
+*~

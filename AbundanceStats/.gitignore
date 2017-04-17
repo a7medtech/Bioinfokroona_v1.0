@@ -1,0 +1,10 @@
+#*#
+*~
+*.class
+lib/
+.svn
+build/
+dist/
+rarefaction_test/
+test_cluster/
+private/
